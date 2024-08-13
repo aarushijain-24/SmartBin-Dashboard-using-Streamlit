@@ -1,6 +1,6 @@
 # SmartBin-Dashboard-using-Streamlit
 
-[https://smartbin-dashboard.streamlit.app/](https://smartbin-dashboard.streamlit.app/)
+[https://smartbin.streamlit.app/](https://smartbin.streamlit.app/)
 
 This Streamlit app provides a dashboard for monitoring and analyzing data from a smart bin. The dashboard allows users to visualize fill levels, object classifications, and flap positions over time, and to filter data based on a specified date range.
 
